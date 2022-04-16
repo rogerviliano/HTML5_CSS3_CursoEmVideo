@@ -109,13 +109,13 @@ nav#menu ul {
 }
 nav#menu li {
     display: inline-block;
-    background-color: #78a1e8;
+    background-color: #4facee;
     padding: 10px;
     margin: 2px;
     transition: background-color 1s;
 }
 nav#menu li:hover {
-    background-color: #2637b9;
+    background-color: #2c638a;
     color: #dddddd;
 }
 nav#menu h1 {
